@@ -8,3 +8,5 @@
     * k_n0000_<HEA>: this is the self-consistent calculation output of the MuST/MST code. Only the last energy is used for the data analysis since that is the converged value.
     * The jupyter notebook: MC_HEA.ipynb contains the data analysis codes. It should be self-explanatory.
     * If you have question, feel free to contact me at xianglinliu01@gmail.com
+
+To be finishd
